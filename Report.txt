@@ -1,0 +1,10 @@
+Introduction: The Cat Blog website is a simple and responsive front-end web page that provides content about cats. It is built using HTML for structure, CSS for styling, and JavaScript for user interaction. The primary goal of this website is to share information about cats in an engaging and visually appealing manner.
+
+Initial Analysis: lighthouse scores; Performance '87', Accessibility '96', Best Practices '79', SEO '91'
+
+Optimization steps:
+-Implemented lazy loading
+-Defined image width and height
+-Used external CSS and JS
+
+Final Analysis: lighthouse score; Performance '96', Accessibility '96', Best Practices '79', SEO '91' 
